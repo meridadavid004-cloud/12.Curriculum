@@ -1,0 +1,32 @@
+
+        h1 {color: blue;
+        background-color: yellow;
+        font-family: 'Times New Roman', Times, serif;
+        font-weight: bold;
+        font-size: 3em;
+        text-align: center;}
+        p {font-family: Verdana, Geneva, Tahoma, sans-serif;
+        text-align: justify;
+        color: navy;}
+        table,th,td {background-color: lightblue;
+        border: 2px dotted blue;}
+        body {background-color: powderblue;}
+        h2 {color: white;
+        background-color: black;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 15px;}
+        h3 {color: blue;
+        background-color: orange;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 20px;}
+        a {color: purple;
+        font-size: 2em;}
+        a:link {text-decoration: none;}
+        a:visited {color: gray;}
+        a:hover {color: red;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 20pt;
+        background-color: yellow;}
+        a:active {color: green;
+        font-weight: bold;}
+    
